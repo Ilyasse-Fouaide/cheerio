@@ -57,4 +57,8 @@ function ScrapeLatestReleaseAnime(page = 1) {
   });
 }
 
+function ScrapeAnimeSearch() {
+  return;
+}
+
 ScrapeLatestReleaseAnime();
